@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated videos and images
+outputs/
+*.mp4
+*.wav
+*.mp3
+
+# Model files
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
